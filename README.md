@@ -20,7 +20,6 @@ References
 
 1.For data collection:
 
-http://machineloveus.com/mining-reddit-data-or-links-to-33-python-cheat-sheets/
 http://www.storybench.org/how-to-scrape-reddit-with-python/
 https://towardsdatascience.com/scraping-reddit-data-1c0af3040768
 https://api.mongodb.com/python/current/tutorial.html
