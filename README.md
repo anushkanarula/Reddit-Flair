@@ -14,7 +14,7 @@ The entire code has been developed using Python programming language, utilizing 
 
 Inferences
 
-The tests shows that combined features i.e. Title + comments + URL shows the best accuracy while body shows the worst accuracy. Title as feature and comments as features are close runner ups, followed by URL. As machine learning models tries to detect specific words to identify the sentiment it makes sense because more the content means more information. Title as feature performing so well can be due to the fact the title consists of all the keywords to expect in the body, and comments can show a pattern on what topic the discussion is going on.
+The tests shows that combined features i.e. Title + comments + URL shows the best accuracy while body shows the worst accuracy. Title as feature and comments as features are close runner ups, followed by URL. As machine learning models tries to detect specific words to identify the sentiment it makes sense because more the content means more information. Title as feature performing so well can be due to the fact that the title consists of all the keywords to expect in the body, and comments can show a pattern on what topic the discussion is going on.
 
 References
 
