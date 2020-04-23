@@ -1,7 +1,7 @@
 asgiref==3.2.3
 attrs==19.3.0
 backcall==0.1.0
-bleach==3.1.0
+bleach>=3.1.4
 certifi==2020.4.5.1
 chardet==3.0.4
 Click==7.0
@@ -9,7 +9,7 @@ cmake==3.15.3
 colorama==0.4.3
 decorator==4.4.1
 defusedxml==0.6.0
-Django==3.0
+Django==3.0.1
 djangorestframework==3.11.0
 entrypoints==0.3
 face-recognition-models==0.3.0
