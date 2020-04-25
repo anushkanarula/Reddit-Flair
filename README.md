@@ -101,21 +101,21 @@ The tests shows that combined features i.e. Title + comments + URL shows the bes
 
 #### 1. For data collection:
 
-http://www.storybench.org/how-to-scrape-reddit-with-python/
-https://towardsdatascience.com/scraping-reddit-data-1c0af3040768
-https://api.mongodb.com/python/current/tutorial.html
+1. http://www.storybench.org/how-to-scrape-reddit-with-python/
+2. https://towardsdatascience.com/scraping-reddit-data-1c0af3040768
+3. https://api.mongodb.com/python/current/tutorial.html
 
 #### 2. For Building machine learning model:
 
-https://medium.com/themlblog/splitting-csv-into-train-and-test-data-1407a063dd74
-https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568
-https://medium.com/@robert.salgado/multiclass-text-classification-from-start-to-finish-f616a8642538
-https://www.analyticsvidhya.com/blog/2018/04/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/
+1. https://medium.com/themlblog/splitting-csv-into-train-and-test-data-1407a063dd74
+2. https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568
+3. https://medium.com/@robert.salgado/multiclass-text-classification-from-start-to-finish-f616a8642538
+4. https://www.analyticsvidhya.com/blog/2018/04/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/
 
 #### 3.For Deploying the model:
 
-https://medium.com/techkylabs/getting-started-with-python-flask-framework-part-1-a4931ce0ea13 (entire series)
-https://towardsdatascience.com/designing-a-machine-learning-model-and-deploying-it-using-flask-on-heroku-9558ce6bde7b
-https://www.freecodecamp.org/news/how-to-build-a-web-application-using-flask-and-deploy-it-to-the-cloud-3551c985e492/
-https://hackernoon.com/deploy-a-machine-learning-model-using-flask-da580f84e60c
-https://blog.cambridgespark.com/deploying-a-machine-learning-model-to-the-web-725688b851c7
+1. https://medium.com/techkylabs/getting-started-with-python-flask-framework-part-1-a4931ce0ea13 (entire series)
+2. https://towardsdatascience.com/designing-a-machine-learning-model-and-deploying-it-using-flask-on-heroku-9558ce6bde7b
+3. https://www.freecodecamp.org/news/how-to-build-a-web-application-using-flask-and-deploy-it-to-the-cloud-3551c985e492/
+4. https://hackernoon.com/deploy-a-machine-learning-model-using-flask-da580f84e60c
+5. https://blog.cambridgespark.com/deploying-a-machine-learning-model-to-the-web-725688b851c7
