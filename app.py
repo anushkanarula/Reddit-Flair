@@ -13,8 +13,6 @@ import praw
 from praw.models import MoreComments
 from zipfile import ZipFile 
 
-# file_name = "model/random_forest_model.bin.zip"
-
 # Use pickle to load in the pre-trained model
 model = pickle.load(open('model/LR.pkl','rb'))
 
