@@ -3,7 +3,6 @@
 
 # In[3]:
 
-
 import scripts.textcleaning as tc
 from scripts.plot import create_plot
 import pickle
