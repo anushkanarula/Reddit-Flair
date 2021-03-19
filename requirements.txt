@@ -10,7 +10,7 @@ colorama==0.4.3
 decorator==4.4.1
 defusedxml==0.6.0
 Django==3.0.7
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 entrypoints==0.3
 face-recognition-models==0.3.0
 Flask==1.1.1
